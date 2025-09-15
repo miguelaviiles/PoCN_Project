@@ -26,7 +26,7 @@ This repository contains the code, data, and report for two projects completed a
 
 **Files**:
 
-- `code/task_30/`Axelrod_Model_Project.ipynb.`R`: Standalone R script implementing the Axelrod model and generating outputs.
+- `code/task_30/Axelrod_Model_Project.ipynb.R`: Standalone R script implementing the Axelrod model and generating outputs.
 - `code/task_30/Axelrod_Model_Project.ypynb`: Original Jupyter Notebook with the development code and visualizations.
 - `latex/images/`: Contains figures used in the report, with clear fonts and captions.
 
@@ -47,8 +47,8 @@ This repository contains the code, data, and report for two projects completed a
 
 **Files**:
 
-- `code/task_44/`SCI_Facebook_Project`.R`: Standalone R script for data processing, network construction, and analysis.
-- `code/task_44/`SCI_Facebook_Project`.ipynb`: Original Jupyter Notebook with the development code and visualizations.
+- `code/task_44/SCI_Facebook_Project.R`: Standalone R script for data processing, network construction, and analysis.
+- `code/task_44/SCI_Facebook_Project.ipynb`: Original Jupyter Notebook with the development code and visualizations.
 - `data/my_nodes.csv`: Node file with remapped IDs, labels, and geographic coordinates.
 - `data/my_edges.csv`: Edge file with friendship connections and country metadata.
 - `latex/images`: Contains figures used in the report.
@@ -57,8 +57,8 @@ This repository contains the code, data, and report for two projects completed a
 
 - **R**: Version 4.0 or higher.
 - **R Packages**:
-  - Task #30: `igraph`, `ggplot2` ,  reshape2, RColorBrewer, dplyr and ggpubr
-  - Task #44: igraph, ggplot2, dplyr, stringr, tidyr, RColorBrewer, rgl, sf and readr.
+  - Task #30: `igraph`, `ggplot2` , `reshape2`, `RColorBrewer`, `dplyr` and `ggpubr`.
+  - Task #44: `igraph`, `ggplot2`, `dplyr`, `stringr`, `tidyr`, `RColorBrewer`, `rgl`, `sf` and `readr`.
 
 ## How to Run
 
